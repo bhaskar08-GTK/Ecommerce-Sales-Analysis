@@ -1,0 +1,22 @@
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Office temp files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+*.tmp
+
+# Power BI auto-recovery
+*.pbix.bak
+
+# Node/build artifacts (if any)
+node_modules/
+package-lock.json
+*.log
+
+# Temp files
+Cleaned_Superstore.csv
+*.db
