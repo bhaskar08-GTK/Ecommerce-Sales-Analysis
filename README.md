@@ -2,8 +2,6 @@
 
 End-to-end sales analytics project: cleaning raw retail transaction data in Excel, analyzing it with 27 SQL queries in SQLite, and visualizing results in an interactive Power BI dashboard to answer real business questions about revenue, profitability, and customer value.
 
-![Dashboard Preview](Dashboard_Screenshots/01_Overview_Dashboard.png)
-
 ## Business Problem
 
 An online retailer wants to understand:
